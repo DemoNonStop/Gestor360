@@ -6,8 +6,8 @@ Aplicación de escritorio desarrollada como Trabajo de Fin de Grado (DAM) para l
 
 ## 📄 Documentación
 
-- [Memoria técnica del proyecto (PDF)](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/TFG-DiegoGarcia-Memoria.zip)
-- [Manual de usuario (próximamente)](https://github.com/DemoNonStop/Gestor360/blob/main/Manual_Usuario_Gestor360.pdf)
+- [Memoria técnica del proyecto (próximamente)](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/TFG-DiegoGarcia-Memoria.zip)
+- [Manual de usuario (PDF)](https://github.com/DemoNonStop/Gestor360/blob/main/Manual_Usuario_Gestor360.pdf)
 - [Plan de empresa (próximamente)]()
 
 ---
