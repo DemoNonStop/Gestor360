@@ -37,6 +37,7 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 - 📦 Launch4j (para generar `.exe`)
 - 🐘 MySQL Workbench
 - 💻 Eclipse IDE
+- 🛠️ Inno Setup (para generar el instalador)
 
 ---
 
@@ -45,7 +46,7 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 ### 🔹 Requisitos Previos
 
 - Sistema operativo: Windows 10 o superior.
-- Tener Java JDK 17 instalado.
+✅ **NO se requiere tener Java instalado.** El instalador incluye todo lo necesario (JRE 17 embebido).
 - Tener MySQL Server y MySQL Workbench instalados y configurados.
 - Archivo `.sql` de la base de datos descargado (incluido en este repositorio).
 
@@ -54,7 +55,7 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 ### 🔸 Pasos para instalar y ejecutar Gestor360
 
 1. Descargar el archivo `Gestor360-Instalable.zip` desde este repositorio.
-2. Extraer el contenido y ejecutar el archivo `Gestor360.exe`.
+2. Ejecutar el archivo `Instalador_Gestor360.exe` y seguir los pasos.
 3. Configurar previamente la base de datos siguiendo las instrucciones del manual de usuario.
 4. ¡Listo! Ya puedes comenzar a utilizar la aplicación.
 
@@ -64,7 +65,7 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 
 ## 📁 Enlaces a archivos relevantes
 
-- **Instalador final (.exe)**: [Descargar Gestor360-Instalable](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Gestor360-Instalable)
+- **Instalador final (.exe)**: [Descargar Instalador_Gestor360.exe](https://github.com/DemoNonStop/Gestor360_Archivos/releases/latest)
 - **Archivo de configuración Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
 - **Base de datos (.sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql)
 - **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360)
