@@ -64,13 +64,13 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 
 ## 📁 Enlaces a archivos relevantes
 
-- **Instalador final (.exe)**: [Descargar Gestor360-Instalable](https://github.com/DemoNonStop/Gestor360_Archivos/raw/main/Gestor360-Instalable.zip)
-- **Archivo de configuración Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/raw/main/Gestor360_config.xml)
-- **Base de datos (.sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/raw/main/gestor360_db.sql)
+- **Instalador final (.exe)**: [Descargar Gestor360-Instalable](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360-Instalable.zip)
+- **Archivo de configuración Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
+- **Base de datos (.sql)**: [Descargar gestor360_db.sql]() (EN PROCESO)
 - **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360)
-- **Memoria técnica (PDF)**: [Descargar TFG-DiegoGarcia-Memoria.zip](https://github.com/DemoNonStop/Gestor360_Archivos/raw/main/TFG-DiegoGarcia-Memoria.zip)
-- **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/raw/main/Manual_de_Usuario.pdf)
-- **Plan de empresa**: [Descargar Plan_de_Empresa.pdf](EN PROCESO)
+- **Memoria técnica (PDF)**: [Descargar TFG-DiegoGarcia-Memoria.zip](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/TFG-DiegoGarcia-Memoria.zip)
+- **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Manual_de_Usuario.pdf)
+- **Plan de empresa**: [Descargar Plan_de_Empresa.pdf]()(EN PROCESO)
 
 ---
 
