@@ -8,11 +8,11 @@ Aplicación de escritorio desarrollada en Java Swing que permite gestionar clien
 
 - **Instalador final (.exe en .zip)**: [Descargar Gestor360-Instalable.zip](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360-Instalable.zip)
 - **Archivo de configuración de Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
-- **Base de datos (archivo .sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql)
-- **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360)
+- **Base de datos (archivo .sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql) (EN PROCESO)
+- **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360) (EN PROCESO)
 - **Memoria técnica (PDF comprimido)**: [Descargar TFG-DiegoGarcia-Memoria.zip](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/TFG-DiegoGarcia-Memoria.zip)
 - **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Manual_de_Usuario.pdf)
-- **Plan de empresa**: [Descargar Plan_de_Empresa.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Plan_de_Empresa.pdf)
+- **Plan de empresa**: [Descargar Plan_de_Empresa.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Plan_de_Empresa.pdf) (EN PROCESO)
 
 ---
 
