@@ -6,7 +6,7 @@ Aplicación de escritorio desarrollada en Java Swing que permite gestionar clien
 
 ## 📂 Enlaces a archivos relevantes
 
-- **Instalador final (.exe en .zip)**: [Descargar Gestor360-Instalable.zip](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360-Instalable.zip)
+- **Instalador final (.exe en .zip)**: [Descargar Gestor360-Instalable.zip](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Gestor360-Instalable)
 - **Archivo de configuración de Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
 - **Base de datos (archivo .sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql) (EN PROCESO)
 - **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360) (EN PROCESO)
