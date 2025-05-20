@@ -1,48 +1,35 @@
 # Gestor360
 
-Aplicación de escritorio desarrollada como Trabajo de Fin de Grado (DAM) para la gestión de clientes, proveedores, compras, ventas e incidencias.
+Aplicación de escritorio desarrollada en Java Swing que permite gestionar clientes, proveedores, productos, compras, ventas, gastos e incidencias, conectada a una base de datos MySQL.
 
 ---
 
-## 📄 Documentación
+## 📂 Enlaces a archivos relevantes
 
-- [Memoria técnica del proyecto (próximamente)](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/TFG-DiegoGarcia-Memoria.zip)
-- [Manual de usuario (PDF)](https://github.com/DemoNonStop/Gestor360/blob/main/Manual_Usuario_Gestor360.pdf)
-- [Plan de empresa (próximamente)]()
-
----
-
-## 🔗 Archivos técnicos
-
-- [Instalador final (.exe en .zip)](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360-Instalable.zip)
-- [Archivo de configuración de Launch4j](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
-- [Código fuente completo (.zip)](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Codigo_Fuente_Gestor360.zip)
+- **Instalador final (.exe en .zip)**: [Descargar Gestor360-Instalable.zip](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360-Instalable.zip)
+- **Archivo de configuración de Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
+- **Base de datos (archivo .sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql)
+- **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360)
+- **Memoria técnica (PDF comprimido)**: [Descargar TFG-DiegoGarcia-Memoria.zip](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/TFG-DiegoGarcia-Memoria.zip)
+- **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Manual_de_Usuario.pdf)
+- **Plan de empresa**: [Descargar Plan_de_Empresa.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Plan_de_Empresa.pdf)
 
 ---
 
-## 🧾 Descripción general
+## 🛠️ Tecnologías utilizadas
 
-Gestor360 es un sistema de gestión integral para empresas, con interfaz gráfica desarrollada en Java Swing y conexión a base de datos MySQL. Incluye:
-
-- Gestión de clientes y proveedores.
-- Módulos de compras, ventas y stock.
-- Generador de informes e incidencias.
-- Exportación y visualización de datos.
-
----
-
-## ⚙️ Tecnologías utilizadas
-
-- Java (JDK 20)
-- Java Swing
-- MySQL
+- Java 8 (Java Swing)
+- MySQL 8.0+
+- MySQL Workbench
 - Launch4j
-- Inno Setup
+- Git y GitHub
 
 ---
 
-## 👤 Autor
+## 🚀 Instrucciones de uso
 
-**Diego García Martín**  
-2º DAM – Curso 2024/2025  
-IES Las Salinas - Seseña Nuevo
+1. **Clonar este repositorio** o descargar directamente desde la sección de archivos.
+2. **Importar la base de datos** en MySQL Workbench (ver Manual de Usuario).
+3. Ejecutar el archivo `.exe` o ejecutar desde el código fuente (`main_window.java`).
+
+---
