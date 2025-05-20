@@ -54,14 +54,14 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 
 ### 🔸 Pasos para instalar y ejecutar Gestor360
 
-1. Descargar el archivo `Gestor360-Instalable.zip` desde este repositorio.
-2. Ejecutar el archivo `Instalador_Gestor360.exe` y seguir los pasos.
-3. Configurar previamente la base de datos siguiendo las instrucciones del manual de usuario.
-4. ¡Listo! Ya puedes comenzar a utilizar la aplicación.
+- Descargar el archivo `Instalador_Gestor360.exe` desde este repositorio.
+- Ejecutar el instalador y seguir los pasos.
+- Una vez instalado, hacer doble clic en el acceso directo o el ejecutable para iniciar la aplicación.
+- Configurar previamente la base de datos siguiendo las instrucciones del manual de usuario.
+- ¡Listo! Ya puedes comenzar a utilizar Gestor360.
+
 
 ---
-
-## 📁 Enlaces a archivos relevantes
 
 ## 📁 Enlaces a archivos relevantes
 
