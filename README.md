@@ -65,7 +65,7 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 
 ## 📁 Enlaces a archivos relevantes
 
-- **Instalador final (.exe)**: [Descargar Instalador_Gestor360.exe](https://github.com/DemoNonStop/Gestor360_Archivos/releases/latest)
+- **Instalador final (.exe)**: [Descargar Instalador_Gestor360.exe](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Gestor360-Instalable)
 - **Archivo de configuración Launch4j (.xml)**: [Descargar Gestor360_config.xml](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Gestor360_config.xml)
 - **Base de datos (.sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql)
 - **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Gestor360)
