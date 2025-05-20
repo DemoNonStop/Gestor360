@@ -69,7 +69,7 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 - **Base de datos (.sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql)
 - **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Fuente_Gestor360)
 - **Memoria técnica (PDF)**: [Descargar TFG-DiegoGarcia-Memoria.zip]() (EN PROCESO)
-- **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/Manual_de_Usuario.pdf)
+- **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360/blob/main/Manual_Usuario_Gestor360.pdf)
 
 ---
 
