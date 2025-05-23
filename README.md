@@ -65,11 +65,11 @@ Además, el proyecto fue desarrollado como Trabajo de Fin de Grado del ciclo DAM
 
 ## 📁 Enlaces a archivos relevantes
 
-- **Otros archivos (.exe)**: [Descargar otros archivos_Gestor360.exe](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Gestor360-Instalable)
-- **Base de datos (.sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360_Archivos/blob/main/gestor360_db.sql)
-- **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360_Archivos/tree/main/Codigo_Fuente_Gestor360)
-- **Memoria técnica (PDF)**: [Descargar TFG-DiegoGarcia-Memoria.zip]() (EN PROCESO)
-- **Manual de usuario**: [Descargar Manual_de_Usuario.pdf](https://github.com/DemoNonStop/Gestor360/blob/main/Manual_Usuario_Gestor360.pdf)
+- **Manual de usuario**: [Descargar Manual_Usuario_Gestor360.pdf](https://github.com/DemoNonStop/Gestor360/blob/main/Manual_Usuario_Gestor360.pdf)
+- **Memoria técnica (PDF)**: [Descargar Memoria_TFGDiegoGarcía.pdf](https://github.com/DemoNonStop/Gestor360/blob/main/Memoria_TFGDiegoGarcía.pdf)
+- **Otros archivos (.exe)**: [Descargar otros archivos_Gestor360.exe](https://github.com/DemoNonStop/Gestor360/tree/main/Archivos%20Relevantes/Gestor360-Instalable)
+- **Base de datos (.sql)**: [Descargar gestor360_db.sql](https://github.com/DemoNonStop/Gestor360/blob/main/Archivos%20Relevantes/gestor360_db.sql)
+- **Código fuente completo (.carpeta)**: [Ver Código_Gestor360](https://github.com/DemoNonStop/Gestor360/tree/main/Archivos%20Relevantes/Codigo_Fuente_Gestor360)
 
 ---
 
